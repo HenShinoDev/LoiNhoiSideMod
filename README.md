@@ -1,4 +1,5 @@
 LoiNhoiSideMod
+
 Đây là mod hỗ trợ dành cho máy chủ Loi Nhoi.
 - Tùy chỉnh phím sử dụng kỹ năng
 Bấm ESC → Tùy chọn → Điều khiển, tìm mục của LoiNhoiSideMod.
@@ -8,6 +9,7 @@ Gán nút thi triển kỹ năng theo phong cách của bạn.
 - Gộp thông báo
 Những thông báo từ hệ thống sẽ được gộp lại, giữ khung chat sạch sẽ.
 Ngoài ra, còn có thể tắt/mở các kênh trò chuyên như hình.
+
     <img width="182" height="38" alt="Screenshot 2026-10-24 185624" src="https://github.com/user-attachments/assets/5ed9e8a3-eb84-46f0-8e84-9129f26656c2" /><img width="660" height="86" alt="Screenshot 2026-10-24 185740" src="https://github.com/user-attachments/assets/f7477744-7401-4e81-8fea-19efa35ee2b3" />
 - Chỉ số trang bị
 Khi xem trang bị trong túi đồ, giữ Shift để hiển thị thêm thông tin về Tẩy Luyện và Hồn đã ép. Chỉ số từ Tẩy Luyện và Hồn sẽ được tách riêng khỏi Chỉ số gốc, Cường hóa và Biến thể.
