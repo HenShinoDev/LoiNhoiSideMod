@@ -5,6 +5,7 @@ LoiNhoiSideMod
 Bấm ESC → Tùy chọn → Điều khiển, tìm mục của LoiNhoiSideMod.
 Gán nút thi triển kỹ năng theo phong cách của bạn.
 <img width="708" height="254" alt="Screenshot 2026-10-24 185923" src="https://github.com/user-attachments/assets/4972d515-c97d-4b9c-851f-242732311bd0" />
+
 Video hướng dẫn gán và sử dụng kỹ năng khi đã có/chưa có LoiNhoiSideMod: [Video hướng dẫn](https://www.tiktok.com/@loinhoinetwork283/video/7703892154392874241).
 
 - Gộp thông báo
