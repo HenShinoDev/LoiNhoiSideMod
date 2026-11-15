@@ -25,7 +25,7 @@ Fabric Loader
 Fabric API dành cho Minecraft 1.21.4
 
 - Cách cài đặt
-1. Cài Fabric Loader cho Minecraft 1.21.4.
+1. Cài Fabric Loader cho Minecraft 1.21.4 - 1.21.11.
 2. Tải Fabric API tương ứng và LoiNhoiSideMod.
 3. Bỏ cả hai file .jar vào thư mục mods trong thư mục Minecraft.
 Nếu gặp lỗi hoặc chưa biết cách cài, có thể nhờ Staff và người chơi khác hỗ trợ trong [Discord Loi Nhoi](https://discord.loinhoi.net/).
